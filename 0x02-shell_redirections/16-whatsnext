@@ -1,0 +1,2 @@
+#!/bin/bash
+greap -A3 root /etc/passwd

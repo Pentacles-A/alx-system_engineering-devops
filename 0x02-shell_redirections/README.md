@@ -14,4 +14,6 @@
 13. takes a list of words as input and print only words that appear once
 14. Display lines containing the pattern "root" from the file /etc/passwd 
 15. Display the number of lines that contain the patter "bin" in the file /etc/passwd.
-16. 
+16. Display lines containing 'root' and three lines after that in the file /etc/passwd
+17. Displays all the lines in /etc/passwd that do not contain 'bin'
+18.  
