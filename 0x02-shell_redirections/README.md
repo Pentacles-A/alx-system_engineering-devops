@@ -7,4 +7,6 @@
 6. This script prints the third line of the file; iacta
 7. A script that creates a new file containing Best School
 8. A script that redirect the command; ls -la, into the a file
-9. This script duplicates the last line of the file; iacta 
+9. This script duplicates the last line of the file; iacta
+10. This script deletes all file ending with .js and all its subfolders.
+11. 
