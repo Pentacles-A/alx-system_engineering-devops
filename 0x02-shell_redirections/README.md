@@ -12,4 +12,6 @@
 11. Counts the number of directories and subdirectories in the current working directory including the hidden files but with the exception of the current and parent working directory. 
 12. Displays the 10 newest files in the directory
 13. takes a list of words as input and print only words that appear once
-14.  
+14. Display lines containing the pattern "root" from the file /etc/passwd 
+15. Display the number of lines that contain the patter "bin" in the file /etc/passwd.
+16. 
