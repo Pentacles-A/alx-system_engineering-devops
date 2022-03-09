@@ -21,4 +21,5 @@
 20. A script that removes C and c from input
 21. A script that reverses its input
 22. A script that displays all users and their home directories sorted by users. 
-23. 
+100. A script that prints all empty files in the current and sub-directories including hidden files. All printed one name per line.
+101. 
