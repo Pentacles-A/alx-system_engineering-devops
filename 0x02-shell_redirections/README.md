@@ -16,4 +16,9 @@
 15. Display the number of lines that contain the patter "bin" in the file /etc/passwd.
 16. Display lines containing 'root' and three lines after that in the file /etc/passwd
 17. Displays all the lines in /etc/passwd that do not contain 'bin'
-18.  
+18. Display all files in /etc/ssh/sshd_config beginning with a letter
+19. Replace all characters A and c from input to Z and e respectively.
+20. A script that removes C and c from input
+21. A script that reverses its input
+22. A script that displays all users and their home directories sorted by users. 
+23. 
