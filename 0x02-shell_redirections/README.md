@@ -23,4 +23,5 @@
 22. A script that displays all users and their home directories sorted by users. 
 100. A script that prints all empty files in the current and sub-directories including hidden files. All printed one name per line.
 101. A script that prints all files with a .gif extension in the current directories and all its sub directories. could also include hidden files.
-102. 
+102. A svript thsagt decodes the poem 'Acrostic' that use the first letter of each line
+103. 
